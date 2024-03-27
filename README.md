@@ -1,4 +1,4 @@
-This is a code with two queues (one for landing and one for take off).</br>
+This is a code with two queues (one for landing and one for take off ).</br>
 To be able to manage the traffic control of an airport. </br>
 
 First of all you need to create a class ```CLASS_NAME= Airport()```</br>
